@@ -1,16 +1,42 @@
-## Hi there 👋
+<h2 align="center">~ 𝒲ℯ𝓁𝒸ℴ𝓂ℯ 𝓉ℴ 𝓂𝓎 𝓅𝓇ℴ𝒻𝒾𝓁ℯ ~</h2>
 
-<!--
-**kolleelleni-ux/kolleelleni-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github.com/kolleelleni-ux/kolleelleni-ux/blob/main/banner.gif" />
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center">😺 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 😺</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img align="right" height="150" src="https://github.com/kolleelleni-ux/kolleelleni-ux/blob/main/sawako2.gif" />
+
+  <ul>
+    <li><b>Name:</b> Danielle Tsuchida</li>
+    <li><b>Loves:</b> anime, games, music</li>
+    <li><b>Gender:</b> she/her/female</li>
+  </ul>
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://instagram.com/daanywtv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/danielle-tsuchida-5968723b5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">🔧 ~ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 𝓪𝓷𝓭 𝓽𝓸𝓸𝓵𝓼 ~ 🔧</h2>
+ <br>
+<p>
+
+
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">
+
+
