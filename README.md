@@ -10,8 +10,9 @@
   <img align="right" height="150" src="https://github.com/kolleelleni-ux/kolleelleni-ux/blob/main/sawako2.gif" />
 
   <ul>
+    <li><b>Currently a Systems Analysis and Development student.</li>
     <li><b>Name:</b> Danielle Tsuchida</li>
-    <li><b>Loves:</b> anime, games, music</li>
+    <li><b>Loves:</b> anime, games, music, learning, programming</li>
     <li><b>Gender:</b> she/her/female</li>
   </ul>
 </div>
